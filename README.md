@@ -4,7 +4,7 @@
 
 This is a translation of the document created by Carmina Altesa Amils [On Twitter](https://twitter.com/AltesaAmils) (@AltesaAmils)
 
-I, [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) have translated this on a “Best effort” basis and some grammar, style or other errors might have slipped in. 
+Translated on a “Best effort” basis and some grammar, style or other errors might have slipped in) by [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) 
 
 Links to original files:
 
@@ -42,6 +42,11 @@ http://www.idescat.cat/pub/?id=poloc&n=272&by=mun
 
 http://www.idescat.cat/tema/xifpo
  
+
+
+
+# [Data located here](https://github.com/Ben-Antonius/1Oct-in-Numbers/blob/master/1Oct.ods)
+
 
 ## Summary:
 
