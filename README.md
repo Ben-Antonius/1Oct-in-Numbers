@@ -2,9 +2,9 @@
 
 ## The 1st of October in Numbers.
 
-This is a translation of the document created by Carmina Altesa Amils [On Twitter](https://twitter.com/AltesaAmils) (@AltesaAmils)
+This is a literal translation of the document created by Carmina Altesa Amils [On Twitter](https://twitter.com/AltesaAmils) (@AltesaAmils)
 
-Translated on a “Best effort” basis and some grammar, style or other errors might have slipped in) by [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) 
+Translated on a “Best effort” basis (some grammar, style or other errors might have slipped in) by [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) 
 
 Links to original files:
 
