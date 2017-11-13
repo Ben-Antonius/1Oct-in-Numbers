@@ -1,15 +1,15 @@
 # 1Oct-in-Numbers
 
-The 1st of October in Numbers.
+##The 1st of October in Numbers.
 
 This is a translation of the document created by Carmina Altesa Amils (@AltesaAmils)
 I (@Ben_Antonius) have translated this on a “Best effort” basis and some grammar, style or other errors might have slipped in. 
 Links to original files:
-Catalan: https://t.co/EgBi0NSuSV
-Spanish: https://t.co/T2Jd76Qiws
+[Catalan](https://t.co/EgBi0NSuSV)
+[Spanish](https://t.co/T2Jd76Qiws)
 
 
-INTRODUCTION:
+##INTRODUCTION:
 The following document I am presenting to you is a small statistical study about the actions of the security forces during the day of the referendum, the 1st of October of 2017.
 The idea arose a few days after the consultation.
 
@@ -30,7 +30,7 @@ http://www.idescat.cat/pub/?id=poloc&n=272&by=mun
 
 http://www.idescat.cat/tema/xifpo
  
-Summary:
+##Summary:
 
 I have counted 55 places affected, with a total of 106 police actions. Looking at the statistical tables, it’s surprising to see that 25.5% of the places intervened where of less than 500 inhabitants, 60% in places of less than 2000 and 70.88% in villages of less than 4000 inhabitants.
 If we look in relation to the interventions, obviously this percentage is lower because in Barcelona only, there were a total of 28 police interventions.
@@ -38,6 +38,6 @@ Equally, the percentage of small or medium sized places that were affected is ve
 With these numbers in mind it’s impossible not to ask yourself why the state’s (Spain) pretence was to stop a referendum would invest that much effort and resources in intervening villages in which the number of votes would be , by force, pretty insignificant for the total outcome.
 What sense did it make to go to Renau (148 inhabitants), Campins (470 inhabitants), Estaràs (163 inhabitants) or others slightly larger, when trying to achieve the referendum to be declared invalid? Obviously, the official answer to these questions, we will never know, but it is inevitable asking if the real motive was to stop the popular vote or something else.
 
-Personal Note:
+##Personal Note:
 
 The 1st of October, as many other Catalan citizens, I was protecting one of the polling stations. I was at Escola Teresa Claramunt in Sabadell. During that day, emotionally very charged, a few things shocked me. The first was the attack to the school Escola Nostra Llar (also in Sabadell), performed by the Spanish National Police. The second when, via WhatsApp, I started receiving Audio files and videos of different places all around Catalonia where similar things happened. I am remembering now, specifically, the audio file, shared by the mayor of Fonollosa (Bages) in which he explained the things that happened there. Iw as surprised (maybe I am too naïve and did not expect this) that the agents of the Guardia Civil (Spanish Civil guard) presented themselves in villages that small. What would they win in places like this? But the truth is that the thoughts that came to mind, when this information reached me is that these must be much unprotected places. And that the difference between my city, Sabadell and Fonollose for example is that in the school Escola Nostre Llar, such an amount of people joined that managed to push back the Policia Nacional (Spanish National Police) without achieving their objective. In Fonollosa nevertheless, they did not have any opportunity of stopping anything, there are only 251 inhabitants. A quite well known case is that of the Escola Industrial in Barcelona, where 2000 citizens stopped the police from even entering the school. Also, it has to be added that in places like Sabadell, Barcelona, Taragona and others, it’s clear that medical attention could be provided almost immediately in many cases. This as opposed to the majority of really small villages, where they only have one small local medical office, which opens a day a week. Honestly it shrank my hart when thinking about these places where the presence of Firemen, Mossos (Local Catalan Police) or doctors is not possible, Police presented themselves ready to attack the civilians that guarded the polling stations.
