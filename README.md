@@ -4,13 +4,15 @@
 
 This is a literal translation of the document created by Carmina Altesa Amils [On Twitter](https://twitter.com/AltesaAmils) (@AltesaAmils)
 
-Translated on a “Best effort” basis (some grammar, style or other errors might have slipped in) by [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) 
+Translated to English on a “Best effort” basis (some grammar, style or other errors might have slipped in) by [Ben](https://twitter.com/Ben_Antonius) (@Ben_Antonius) 
+
+The data tables have been extracted and moved to a [spreadsheet](https://github.com/Ben-Antonius/1Oct-in-Numbers/blob/master/1Oct.ods).
 
 Links to original files:
 
-[Catalan](https://t.co/EgBi0NSuSV)
+### [Catalan](https://t.co/EgBi0NSuSV)
 
-[Spanish](https://t.co/T2Jd76Qiws)
+### [Spanish](https://t.co/T2Jd76Qiws)
 
 
 ## INTRODUCTION:
@@ -45,7 +47,10 @@ http://www.idescat.cat/tema/xifpo
 
 
 
+
 # [Data located here](https://github.com/Ben-Antonius/1Oct-in-Numbers/blob/master/1Oct.ods)
+
+
 
 
 ## Summary:
@@ -64,5 +69,8 @@ What sense did it make to go to Renau (148 inhabitants), Campins (470 inhabitant
 
 The 1st of October, as many other Catalan citizens, I was protecting one of the polling stations. I was at Escola Teresa Claramunt in Sabadell. During that day, emotionally very charged, a few things shocked me. The first was the attack to the school Escola Nostra Llar (also in Sabadell), performed by the Spanish National Police. The second when, via WhatsApp, I started receiving Audio files and videos of different places all around Catalonia where similar things happened. 
 
-I am remembering now, specifically, the audio file, shared by the mayor of Fonollosa (Bages) in which he explained the things that happened there. Iw as surprised (maybe I am too naïve and did not expect this) that the agents of the Guardia Civil (Spanish Civil guard) presented themselves in villages that small. What would they win in places like this? But the truth is that the thoughts that came to mind, when this information reached me is that these must be much unprotected places. And that the difference between my city, Sabadell and Fonollose for example is that in the school Escola Nostre Llar, such an amount of people joined that managed to push back the Policia Nacional (Spanish National Police) without achieving their objective. In Fonollosa nevertheless, they did not have any opportunity of stopping anything, there are only 251 inhabitants. 
-A quite well known case is that of the Escola Industrial in Barcelona, where 2000 citizens stopped the police from even entering the school. Also, it has to be added that in places like Sabadell, Barcelona, Taragona and others, it’s clear that medical attention could be provided almost immediately in many cases. This as opposed to the majority of really small villages, where they only have one small local medical office, which opens a day a week. **Honestly it shrank my hart when thinking about these places where the presence of Firemen, Mossos (Local Catalan Police) or Doctors is not possible, Spanish policemen presented themselves ready to attack the civilians that guarded the polling stations.**
+I am remembering now, specifically, the audio file, shared by the mayor of Fonollosa (Bages) in which he explained the things that happened there. I was surprised (maybe I am too naïve and did not expect this) that the agents of the Guardia Civil (Spanish Civil guard) presented themselves in villages that small. 
+What would they win in places like this? But the truth is that the thoughts that came to mind, when this information reached me is that these must be much unprotected places. And that the difference between my city, Sabadell and Fonollose for example is that in the school Escola Nostre Llar, such an amount of people joined that managed to push back the Policia Nacional (Spanish National Police) without achieving their objective. In Fonollosa nevertheless, they did not have any opportunity of stopping anything, there are only 251 inhabitants. 
+
+A quite well known case is that of the Escola Industrial in Barcelona, where 2000 citizens stopped the police from even entering the school. Also, it has to be added that in places like Sabadell, Barcelona, Taragona and others, it’s clear that medical attention could be provided almost immediately in many cases. 
+This as opposed to the majority of really small villages, where they only have one small local medical office, which opens a day a week. **Honestly it shrank my hart when thinking about these places where the presence of Firemen, Mossos (Local Catalan Police) or Doctors is not possible, Spanish policemen presented themselves ready to attack the civilians that guarded the polling stations.**
